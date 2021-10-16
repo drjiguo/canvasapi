@@ -8,3 +8,10 @@ What you need are:
 2. Canvas course number
 3. Canvas user id for requests
 4. Start and End date for requests
+
+
+# Canvas access report
+
+Use this code with selenium to pull the access report from Canvas page. 
+
+You need to be the course instructor to do so. 
