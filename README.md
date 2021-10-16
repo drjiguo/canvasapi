@@ -1,7 +1,7 @@
 # Canvas API
 
 
-Use this API to pull the request data from Canvas API
+Use this API to pull the request data from Canvas API. This is particularly useful for those who are interested in conducting learning analytics research with Canvas data. 
 
 What you need are: 
 1. API token, 
